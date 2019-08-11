@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "26410386970",
+    "firebase_url": "https://reader-pdf417.firebaseio.com",
+    "project_id": "reader-pdf417",
+    "storage_bucket": "reader-pdf417.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26410386970:android:ec4329a8c59c804e",
+        "android_client_info": {
+          "package_name": "ru.konverdev.pdf417reader"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26410386970-f27551rk5l2s6pjvcopjl0kavta2790a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSD2QUh_00P2264seMw_AOllfXJPVOPMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26410386970-f27551rk5l2s6pjvcopjl0kavta2790a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
